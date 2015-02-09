@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="sub77/mukolsoni_device_samsung_matissewifi.git" path="device/samsung/matissewifi" remote="github" revision="cm-12.0" />
+    <project name="sub77/mukolsoni_device_samsung_msm8226-common.git" path="device/samsung/msm8226-common" remote="github" revision="cm-12.0" />
+    <project name="sub77/mukolsoni_device_samsung_qcom-common.git" path="device/samsung/qcom-common" remote="github" revision="cm-12.0" />
+    <project name="sub77/mukolsoni_kernel_samsung_matissewifi.git" path="kernel/samsung/matissewifi" remote="github" revision="cm-12.0" />
+    <project name="sub77/mukolsoni_vendor_samsung_matissewifi.git" path="vendor/samsung/matissewifi" remote="github" revision="cm-12.0" />
+    <project name="cyanogenmod/android_device_qcom_common.git" path="device/qcom/common" remote="github" revision="cm-12.0" />
+    <project name="cyanogenmod/android_hardware_qcom_fm.git" path="hardware/qcom/fm" remote="github" revision="cm-12.0" />
+    <project name="cyanogenmod/android_hardware_qcom_power.git" path="hardware/qcom/power" remote="github" revision="cm-12.0" />
+    <project name="cyanogenmod/android_hardware_qcom_sensors.git" path="hardware/qcom/sensors" remote="github" revision="cm-12.0" />
+</manifest>
+
+
+
+
