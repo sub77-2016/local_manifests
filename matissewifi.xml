@@ -10,8 +10,8 @@
     <project name="cyanogenmod/android_hardware_qcom_power.git" path="hardware/qcom/power" remote="github" revision="cm-12.0" />
     <project name="cyanogenmod/android_hardware_qcom_sensors.git" path="hardware/qcom/sensors" remote="github" revision="cm-12.0" />
 <!--
-    <project name="sub77/mukolsoni_kernel_samsung_ms013g.git" path="kernel/samsung/ms013g" remote="github" revision="cm-12.0" />
 -->
+    <project name="sub77/android_kernel_samsung_matissewifi-2.git" path="kernel/samsung/matissewifi-2" remote="github" revision="cm-12.0" />
 </manifest>
 
 
