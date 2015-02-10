@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="android_device_qcom_common" path="device/qcom/common" remote="omnirom" revision="android-5.0" />
+  <project name="android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="omnirom" revision="android-5.0" />
+</manifest>
