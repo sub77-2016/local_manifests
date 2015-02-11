@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project path="bootable/recovery" name="cyanogen/android_bootable_recovery" />
+ <!-- <remove-project path="bootable/recovery" name="cyanogenmod/android_bootable_recovery" /> 
     <project name="omnirom/android_bootable_recovery.git" path="bootable/recovery" remote="github" revision="android-5.0" />
-	<remove-project path="frameworks/base" name="cyanogenmod/android_frameworks/base" />
-
+-->	<remove-project path="frameworks/base" name="cyanogenmod/android_frameworks_base.git" remote="github" revision="cm-12.0" />
     <project name="mukulsoni/prima.git" path="kernel/samsung/matissewifi/drivers/staging/prima" remote="github" revision="master" />
     <project name="mukulsoni/prima.git" path="kernel/samsung/matissewifi-2/drivers/staging/prima" remote="github" revision="master" />
-
- <project name="mukulsoni/android_frameworks_base.git" path="frameworks_base" remote="github" revistion="cm-12.0" >
+	<project name="mukulsoni/android_frameworks_base.git" path="frameworks_base" remote="github" revistion="cm-12.0" />
     <project name="sub77/android_device_samsung_matissewifi.git" path="device/samsung/matissewifi" remote="github" revision="cm-12.0" />
     <project name="sub77/android_device_samsung_msm8226-common.git" path="device/samsung/msm8226-common" remote="github" revision="cm-12.0" />
     <project name="sub77/android_device_samsung_qcom-common.git" path="device/samsung/qcom-common" remote="github" revision="cm-12.0" />
@@ -17,9 +15,6 @@
     <project name="cyanogenmod/android_device_qcom_common.git" path="device/qcom/common" remote="github" revision="cm-12.0" />
     <project name="cyanogenmod/android_hardware_qcom_fm.git" path="hardware/qcom/fm" remote="github" revision="cm-12.0" />
     <project name="cyanogenmod/android_hardware_qcom_power.git" path="hardware/qcom/power" remote="github" revision="cm-12.0" />
-    <project name="cyanogenmod/android_hardware_qcom_sensors.git" path="hardware/qcom/sensors" remote="github" revision="cm-12.0" />
+	<project name="cyanogenmod/android_hardware_qcom_sensors.git" path="hardware/qcom/sensors" remote="github" revision="cm-12.0" />
     <project name="cyanogenmod/android_hardware_samsung.git" path="hardware/samsung" remote="github" revision="cm-12.0" />
 </manifest>
-
-
-
