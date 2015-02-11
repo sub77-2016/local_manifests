@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project path="frameworks/base" name="cyanogenmod/android_frameworks/base" />
-<project name=mukulsoni/android_frameworks_base.git" path="frameworks_base" remote="github" revistion="cm-12.0" >
+<project name="mukulsoni/android_frameworks_base.git" path="frameworks_base" remote="github" revistion="cm-12.0" >
     <project name="sub77/android_device_samsung_matissewifi.git" path="device/samsung/matissewifi" remote="github" revision="cm-12.0" />
     <project name="sub77/android_device_samsung_msm8226-common.git" path="device/samsung/msm8226-common" remote="github" revision="cm-12.0" />
     <project name="sub77/android_device_samsung_qcom-common.git" path="device/samsung/qcom-common" remote="github" revision="cm-12.0" />
